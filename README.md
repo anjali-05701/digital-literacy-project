@@ -81,7 +81,7 @@ Google Form Quiz:
 https://docs.google.com/forms/d/e/1FAIpQLSd9e-n8j8BcwOAx4tCFUgLUSqUVPMIScv9GtN_HxvSOZ_E4QQ/viewform?usp=publish-editor
 
 GitHub Repository:
-https://github.com/akshitagirdhar2005-ops/Digital-literacy-project
+https://github.com/anjali-05701/digital-literacy-project
 
 🛠 Tools & Platforms Used
 
