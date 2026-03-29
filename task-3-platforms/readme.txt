@@ -1,22 +1,42 @@
+Task 3 – Exploring Coding Platforms and Online Collaboration Tools
+Objective
 
-Task 3: Exploring Digital Learning Platforms
+The objective of this task is to explore digital platforms that support coding practice and online collaboration. This helps in improving problem-solving skills, digital literacy awareness, and the ability to work with modern cloud-based tools.
 
-Description:
-In the digital era, online learning platforms play a significant role in helping students develop technical and problem-solving skills. In this task, I explored different platforms that provide opportunities to practise coding, participate in challenges, and learn from global communities.
+Part A – Coding Practice
 
-Platforms Explored:
+For coding practice, the platform HackerRank was used.
+A beginner-level programming challenge was solved to understand the platform interface, code execution process, and automated evaluation of solutions.
 
-1. HackerRank
-HackerRank is a platform designed to help learners improve their programming and problem-solving abilities. It provides coding challenges in multiple programming languages and allows students to practise algorithms, data structures, and logical thinking. Solving problems on this platform helps students prepare for technical interviews and strengthen their analytical skills.
+The problem involved implementing conditional logic using Python to determine whether a number is “Weird” or “Not Weird” based on given conditions.
 
-2. Kaggle
-Kaggle is widely known for its data science and machine learning competitions. It offers datasets, notebooks, and learning resources where students can explore real-world data problems. Through Kaggle, learners can practise data analysis and understand how artificial intelligence and machine learning models are applied in real scenarios.
+Learning Outcomes
 
-3. GitHub
-GitHub is an essential platform for developers where projects can be stored, managed, and shared. It allows collaboration among developers and helps track changes in code. By using GitHub, students can build a digital portfolio of their projects and showcase their technical abilities.
+Understanding how online coding platforms evaluate code submissions
+Practicing basic programming concepts such as conditional statements
+Developing problem-solving and logical thinking skills
 
-Purpose of this Task:
-The purpose of exploring these platforms is to understand how technology-driven learning environments support skill development and innovation. These platforms encourage continuous learning, collaboration, and practical problem solving.
+A screenshot of the successful submission is included in this folder.
 
-Learning Outcome:
-Through this activity, I realized that digital learning platforms provide valuable opportunities for students to practise coding, analyse data, collaborate with global communities, and improve their technical knowledge beyond traditional classroom learning.
+Part B – Online Collaboration Tool
+
+An interactive Digital Literacy Awareness Quiz was created using Google Forms to assess awareness about digital technologies, cybersecurity, coding platforms, and responsible use of digital tools.
+
+The quiz includes questions related to:
+
+Meaning of digital literacy
+Secure password practices
+Coding practice platforms
+Cloud computing concepts
+Online collaboration tools
+
+Responses collected through the form were automatically stored and analyzed in Google Sheets, which demonstrates the integration of digital tools for data collection and analysis.
+
+Learning Outcomes
+
+Understanding how online forms can be used to collect and analyze data
+Learning how digital surveys and quizzes can promote awareness
+Using collaborative cloud tools for organizing information efficiently
+
+Quiz Link:
+https://docs.google.com/forms/d/e/1FAIpQLSd9e-n8j8BcwOAx4tCFUgLUSqUVPMIScv9GtN_HxvSOZ_E4QQ/viewform?usp=publish-editor
