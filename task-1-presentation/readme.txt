@@ -1,11 +1,12 @@
 # Digital Literacy Infographic
 
-This infographic explains the concept of digital literacy and highlights the essential skills students need to use technology responsibly.
+This infographic describes the meaning of digital literacy and the various skills that students must possess to use technology in the right way.
 
-It covers:
+Content of the Infographic:
 - Understanding digital literacy
 - Tools for modern learners
 - Online collaboration
 - Cyber safety practices
 
-The purpose of this infographic is to spread awareness about responsible and effective use of digital technologies.
+Objective of the Infographic:
+To create awareness among people regarding the proper and efficient utilization of technology.
