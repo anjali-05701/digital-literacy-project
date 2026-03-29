@@ -1,152 +1,122 @@
-#Digital Literacy Project
-Student Information
+📘 Digital Literacy Portfolio
 
-Name: Anjali Sonkar 
-Course Code: CSE0001
-Course Name: Digital Literacy
+Name: Anjali Sonkar
+Registration Number: 25BCE10750
+Branch: B.Tech CSE (Core)
 University: VIT Bhopal University
-Program: B.Tech
-Branch: CSE (Core)
+Course Code: CSE0001 – Digital Literacy
+Academic Year: 2025–2026
 
-Project Overview
+📌 Project Overview
 
-This repository contains my Digital Literacy Project, developed as part of the CSE0001 – Digital Literacy course at VIT Bhopal University.
+This repository contains my Digital Literacy Portfolio developed as part of the CSE0001 – Digital Literacy course at VIT Bhopal University.
 
-The goal of this project is to understand the importance of digital awareness, professional online presence, cyber safety, and effective digital communication in today's technology-driven world.
+The objective of this project is to demonstrate practical knowledge of essential digital tools and platforms that support modern academic learning, professional communication, coding practice, and cyber safety awareness.
 
-Through this project, I explored multiple digital platforms, created professional profiles, practiced coding basics, learned proper email etiquette, and studied cybercrime awareness. This project helped me enhance both my technical knowledge and responsible digital behavior.
+Through this project, I explored several widely used digital platforms including GitHub, LinkedIn, HackerRank, Google Forms, and Canva. Each task helped in developing digital literacy skills that are essential for students in the modern digital ecosystem.
 
-Project Objectives
-
-The key objectives of this project were to:
-
-Understand the concept of Digital Literacy
-Develop a professional digital portfolio
-Explore coding practice platforms
-Learn professional email communication
-Understand cybercrime and prevention techniques
-Build awareness about responsible internet usage
-Project Structure
-
-This repository is organized into different tasks that demonstrate various aspects of digital literacy.
-
-Digital-Literacy-Project
+🎯 Project Objectives
+Develop awareness and understanding of Digital Literacy concepts
+Learn to use presentation and design tools for creating informative content
+Build a professional digital portfolio
+Explore coding practice platforms and collaborative tools
+Understand professional email etiquette and responsible social media behavior
+Create awareness about cybercrime and online safety
+📂 Repository Structure
+digital-literacy-project
 │
-├── Task 1 – Digital Literacy Infographic
-├── Task 2 – Digital Portfolio
-├── Task 3 – Coding & Collaboration Platforms
-├── Task 4 – Professional Email Writing
-├── Task 5 – Cybercrime Case Study
+├── README.md
+├── report/
+│   └── Project_Report.pdf
 │
-└── README.md
-Tasks Completed
-Task 1 – Digital Literacy Infographic
+├── task-1-presentation/
+│   └── infographic.png
+│
+├── task-2-portfolio/
+│   ├── github-profile.png
+│   ├── linkedin-profile.png
+│   └── kaggle-profile.png
+│
+├── task-3-platforms/
+│   ├── hackerrank-solution.png
+│   ├── digital-literacy-quiz.png
+│   └── quiz-responses.png
+│
+├── task-4-email-etiquette/
+│   ├── emails.docx
+│   └── social-media-checklist.md
+│
+└── task-5-cybercrime/
+    ├── casestudy.md
+    └── prevention-checklist.md
+🧩 Project Tasks
+📊 Task 1 – Digital Literacy Awareness Infographic
 
-In this task, I created an awareness infographic explaining:
+A one-page infographic was created using Canva to explain the concept of digital literacy and highlight important topics such as safe internet practices, professional online presence, and useful digital tools for students. The infographic visually communicates essential information in a clear and engaging format.
 
-What digital literacy means
-Safe internet usage
-Useful digital tools for students
-Responsible online behavior
+💼 Task 2 – Student Digital Portfolio
 
-The infographic was designed using Canva to present information in a visual and engaging format.
+To build a professional digital presence, profiles were created on several platforms including:
 
-Task 2 – Digital Portfolio Creation
+GitHub – for sharing projects and code repositories
+LinkedIn – for professional networking and career development
+Kaggle – for exploring data science and machine learning competitions
 
-For this task, I created professional profiles on major learning and networking platforms including:
+Screenshots of these profiles were added to demonstrate the creation of an initial professional digital portfolio.
 
-GitHub – to host and manage coding projects
-LinkedIn – to build a professional network
-Kaggle – to explore data science learning resources
+💻 Task 3 – Coding & Collaboration Platforms
 
-This task helped me understand how maintaining an online professional presence can support learning and career development.
+For coding practice, a beginner programming challenge was completed on HackerRank to develop problem-solving skills.
 
-Task 3 – Coding & Collaboration Platforms
+Additionally, a Digital Literacy Awareness Quiz was created using Google Forms to promote awareness among students about digital tools and safe internet usage.
 
-In this task, I explored coding and collaboration platforms by:
+Quiz Link:
+(Insert your Google Form link here)
 
-Solving a beginner coding problem on HackerRank
-Creating a Digital Literacy quiz using Google Forms
+📧 Task 4 – Email Etiquette & Social Media Guidelines
 
-This activity helped improve my problem-solving skills, coding exposure, and understanding of online collaboration tools.
+Two professional email drafts were written to demonstrate correct digital communication practices:
 
-Task 4 – Professional Email Writing
+Requesting an assignment extension from a professor
+Expressing interest in a summer internship opportunity
 
-This task focused on professional digital communication.
+A Social Media Do’s and Don’ts checklist was also created to encourage responsible online behavior and maintain a positive digital identity.
 
-Activities completed:
+🔐 Task 5 – Cybercrime Awareness Case Study
 
-Drafted formal email samples
-Created a Social Media Etiquette Checklist
+A detailed case study was prepared on UPI Online Payment Fraud, one of the most common cybercrimes affecting digital payment users in India.
 
-Through this task, I learned how to communicate professionally in academic and workplace environments and avoid common mistakes in digital communication.
+A prevention checklist was also created to help students understand how to protect themselves from online scams and financial fraud.
 
-Task 5 – Cybercrime Case Study
+Cybercrime incidents can be reported through the National Cyber Crime Portal or by contacting the Cybercrime Helpline (1930).
 
-For this task, I studied the Phishing Cybercrime case.
+🛠️ Tools & Platforms Used
+Canva – infographic design
+GitHub – project repository and version control
+LinkedIn – professional networking profile
+HackerRank – coding practice platform
+Google Forms – quiz creation and data collection
+Google Sheets – response data analysis
+📖 Learning Outcomes
 
-I researched:
+Through this project, I developed practical experience in:
 
-How phishing attacks occur
-Real examples of phishing scams
-Methods to identify suspicious messages
-Prevention strategies for students
+Using digital tools for content creation and collaboration
+Building a professional online presence
+Practicing basic coding and problem solving
+Understanding professional communication etiquette
+Learning about cybercrime threats and digital safety practices
 
-I also created a Cyber Safety Checklist to spread awareness about protecting personal data online.
+These skills are essential for responsible participation in the digital world and will support my academic and professional growth in the future.
 
-Project Links
+📑 Project Report
 
-Google Form Quiz
-https://docs.google.com/forms/d/e/1FAIpQLSd9e-n8j8BcwOAx4tCFUgLUSqUVPMIScv9GtN_HxvSOZ_E4QQ/viewform?usp=publish-editor
+A detailed report documenting all tasks, reflections, and learning outcomes is available in the report/ folder.
 
-GitHub Repository
-
-
-Tools & Platforms Used
-
-The following tools and platforms were used to complete this project:
-
-Canva – Infographic Design
-GitHub – Repository Management
-LinkedIn – Professional Networking
-Kaggle – Learning Platform
-HackerRank – Coding Practice
-Google Forms – Quiz Creation
-Key Learnings
-
-Through this project, I gained knowledge about:
-
-The importance of digital awareness
-Creating and maintaining professional online profiles
-Basics of coding practice platforms
-Professional email communication
-Awareness about cybercrime and digital safety
-Responsible use of social media and internet resources
-Future Plans
-
-In the future, I plan to:
-
-Improve my programming and coding skills
-Participate in coding competitions and challenges
-Build real-world technical projects
-Maintain and update my professional profiles
-Learn more about cybersecurity and digital safety
-Conclusion
-
-This Digital Literacy project provided valuable exposure to essential digital tools, platforms, and communication practices. It helped me understand how digital technology can be used responsibly for learning, collaboration, and professional development.
-
-The skills and knowledge gained from this project will play an important role in my academic journey and future career in technology.
-
-References
-
-The following platforms were referred to while completing this project:
-
+📚 References
+Canva
 GitHub
 LinkedIn
-Kaggle
 HackerRank
 Google Forms
-Canva
-
-Note:
-This project was created as part of academic coursework for CSE0001 – Digital Literacy at VIT Bhopal University and demonstrates my understanding of digital literacy concepts.
+National Cyber Crime Portal
