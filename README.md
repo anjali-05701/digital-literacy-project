@@ -2,9 +2,13 @@
 🎓 Student Information
 
 Name: Anjali Sonkar 
+
 Course Code: CSE0001
+
 Course Name: Digital Literacy
+
 University: VIT Bhopal University
+
 Program: B.Tech
 
 📖 Project Description
