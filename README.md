@@ -24,10 +24,15 @@ By completing this project, I gained practical experience in using modern digita
 The main objectives of this project are:
 
 To understand the concept and importance of Digital Literacy
+
 To build a professional digital portfolio
+
 To explore coding practice platforms
+
 To learn professional email communication
+
 To understand cybercrime and online safety
+
 To promote responsible use of digital technologies
 
 
