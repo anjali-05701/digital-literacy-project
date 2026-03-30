@@ -1,5 +1,6 @@
-📚 Digital Literacy Project
-🎓 Student Information
+Digital Literacy Project
+
+Student Information
 
 Name: Anjali Sonkar 
 
@@ -11,7 +12,7 @@ University: VIT Bhopal University
 
 Program: B.Tech
 
-📖 Project Description
+Project Description
 
 This repository contains my Digital Literacy Project developed as part of my academic coursework for the Digital Literacy (CSE0001) course. The main objective of this project is to understand the importance of digital awareness, safe internet usage, professional online presence, and responsible digital communication in today's technology-driven world.
 
@@ -19,7 +20,7 @@ Through this project, I explored multiple digital platforms and tools that help 
 
 By completing this project, I gained practical experience in using modern digital platforms such as GitHub, LinkedIn, Kaggle, HackerRank, Google Forms, and Canva. This experience helped me develop a deeper understanding of how technology can be used effectively for academic learning and professional development.
 
-🎯 Project Objectives
+Project Objectives
 
 The main objectives of this project are:
 
@@ -36,7 +37,7 @@ To understand cybercrime and online safety
 To promote responsible use of digital technologies
 
 
-📂 Project Structure
+Project Structure
 
 This repository is organized into different folders, each representing a specific task completed as part of the Digital Literacy project.
 
@@ -56,41 +57,43 @@ digital-literacy-project
 
 Each folder contains the required files, screenshots, and documents related to the respective task.
 
-✅ Tasks Completed
+Tasks Completed
 
-📊 Task 1 – Digital Literacy Infographic
+Task 1 – Digital Literacy Infographic
 
 In this task, I designed an awareness infographic explaining the concept of digital literacy, safe internet practices, and commonly used digital tools for students. The infographic was created using Canva to visually present information in a clear and engaging format. This task helped me understand how visual communication can be used to spread awareness effectively.
 
-💼 Task 2 – Digital Portfolio Creation
+Task 2 – Digital Portfolio Creation
 
 For this task, I created professional accounts on important platforms to start building my digital presence:
 
 ->GitHub – for sharing projects and managing repositories
+
 ->LinkedIn – for professional networking and career opportunities
+
 ->Kaggle – for exploring data science and machine learning resources
 
 This task helped me understand the importance of maintaining a professional online profile that can showcase my skills, projects, and academic work.
 
-💻 Task 3 – Coding & Collaboration Platforms
+Task 3 – Coding & Collaboration Platforms
 
 In this task, I solved a beginner programming challenge on HackerRank to develop my coding and problem-solving skills.
 
 Additionally, I created a Digital Literacy Awareness Quiz using Google Forms to spread awareness about safe internet practices, cyber security, and responsible use of digital technologies.
 
-📧 Task 4 – Professional Email Writing
+Task 4 – Professional Email Writing
 
 This task focused on learning professional communication in digital environments. I drafted formal emails and prepared a social media etiquette checklist highlighting the correct ways to communicate and behave responsibly on digital platforms.
 
 Through this activity, I learned the importance of clear, respectful, and professional communication in academic and professional settings.
 
-🔐 Task 5 – Cybercrime Case Study
+Task 5 – Cybercrime Case Study
 
 In this task, I studied a cybercrime case related to Phishing attacks, which is one of the most common online fraud methods. I analyzed how attackers trick users into sharing sensitive information and prepared a cybercrime prevention checklist to help students stay safe online.
 
 This task helped me understand how cybercrime works and how awareness can help prevent online fraud.
 
-🔗 Important Links
+Important Links
 
 Google Form Quiz:
 https://docs.google.com/forms/d/e/1FAIpQLSd9e-n8j8BcwOAx4tCFUgLUSqUVPMIScv9GtN_HxvSOZ_E4QQ/viewform?usp=publish-editor
@@ -98,17 +101,23 @@ https://docs.google.com/forms/d/e/1FAIpQLSd9e-n8j8BcwOAx4tCFUgLUSqUVPMIScv9GtN_H
 GitHub Repository:
 https://github.com/anjali-05701/digital-literacy-project
 
-🛠 Tools & Platforms Used
+Tools & Platforms Used
 
 The following tools and platforms were used during this project:
 
 Canva – Designing the infographic
+
 GitHub – Managing the project repository
+
 LinkedIn – Professional networking
+
 Kaggle – Learning platform for data science
+
 HackerRank – Coding practice
+
 Google Forms – Quiz creation and responses
-📚 Key Learning Outcomes
+
+Key Learning Outcomes
 
 Through this project, I learned several important concepts and practical skills:
 
@@ -138,13 +147,13 @@ In the future, I plan to:
 
 ->Learn more about cybersecurity and digital technologies
 
-🏁 Conclusion
+Conclusion
 
 This project provided valuable hands-on experience with essential digital tools and platforms. It helped me understand how digital technologies can be used effectively for learning, communication, and professional development.
 
 The knowledge and skills gained through this project will help me build a strong digital presence and responsible online identity, which will be beneficial for my academic journey as well as my future career.
 
-📖 References
+References
 
 -GitHub
 
