@@ -41,13 +41,18 @@ To promote responsible use of digital technologies
 This repository is organized into different folders, each representing a specific task completed as part of the Digital Literacy project.
 
 digital-literacy-project
-│
+
 ├── task-1-infographic
+
 ├── task-2-digital-portfolio
+
 ├── task-3-coding-platforms
+
 ├── task-4-email-etiquette
+
 ├── task-5-cybercrime-case-study
-└── report
+
+|── report
 
 Each folder contains the required files, screenshots, and documents related to the respective task.
 
@@ -60,9 +65,9 @@ In this task, I designed an awareness infographic explaining the concept of digi
 
 For this task, I created professional accounts on important platforms to start building my digital presence:
 
-GitHub – for sharing projects and managing repositories
-LinkedIn – for professional networking and career opportunities
-Kaggle – for exploring data science and machine learning resources
+->GitHub – for sharing projects and managing repositories
+->LinkedIn – for professional networking and career opportunities
+->Kaggle – for exploring data science and machine learning resources
 
 This task helped me understand the importance of maintaining a professional online profile that can showcase my skills, projects, and academic work.
 
@@ -115,12 +120,12 @@ Promoting responsible social media usage
 🚀 Future Plans
 
 In the future, I plan to:
+->Improve my programming and problem-solving skills
+->Participate in coding competitions and hackathons
+->Build technical and innovative projects
+->Maintain and improve my professional profiles
+->Learn more about cybersecurity and digital technologies
 
-Improve my programming and problem-solving skills
-Participate in coding competitions and hackathons
-Build technical and innovative projects
-Maintain and improve my professional profiles
-Learn more about cybersecurity and digital technologies
 🏁 Conclusion
 
 This project provided valuable hands-on experience with essential digital tools and platforms. It helped me understand how digital technologies can be used effectively for learning, communication, and professional development.
@@ -128,9 +133,9 @@ This project provided valuable hands-on experience with essential digital tools 
 The knowledge and skills gained through this project will help me build a strong digital presence and responsible online identity, which will be beneficial for my academic journey as well as my future career.
 
 📖 References
-GitHub
-LinkedIn
-Kaggle
-HackerRank
-Google Forms
-Canva
+-GitHub
+-LinkedIn
+-Kaggle
+-HackerRank
+-Google Forms
+-Canva
