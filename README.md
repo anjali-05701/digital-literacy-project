@@ -57,6 +57,7 @@ digital-literacy-project
 Each folder contains the required files, screenshots, and documents related to the respective task.
 
 ✅ Tasks Completed
+
 📊 Task 1 – Digital Literacy Infographic
 
 In this task, I designed an awareness infographic explaining the concept of digital literacy, safe internet practices, and commonly used digital tools for students. The infographic was created using Canva to visually present information in a clear and engaging format. This task helped me understand how visual communication can be used to spread awareness effectively.
@@ -112,18 +113,29 @@ Google Forms – Quiz creation and responses
 Through this project, I learned several important concepts and practical skills:
 
 Understanding the importance of digital awareness
+
 Creating professional online profiles
+
 Practicing basic coding and problem solving
+
 Learning professional email communication
+
 Understanding cyber safety and online threats
+
 Promoting responsible social media usage
+
 🚀 Future Plans
 
 In the future, I plan to:
+
 ->Improve my programming and problem-solving skills
+
 ->Participate in coding competitions and hackathons
+
 ->Build technical and innovative projects
+
 ->Maintain and improve my professional profiles
+
 ->Learn more about cybersecurity and digital technologies
 
 🏁 Conclusion
@@ -133,9 +145,15 @@ This project provided valuable hands-on experience with essential digital tools 
 The knowledge and skills gained through this project will help me build a strong digital presence and responsible online identity, which will be beneficial for my academic journey as well as my future career.
 
 📖 References
+
 -GitHub
+
 -LinkedIn
+
 -Kaggle
+
 -HackerRank
+
 -Google Forms
+
 -Canva
