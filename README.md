@@ -1,6 +1,6 @@
-Digital Literacy Project
+##Digital Literacy Project
 
-Student Information
+#Student Information
 
 Name: Anjali Sonkar 
 
@@ -12,7 +12,7 @@ University: VIT Bhopal University
 
 Program: B.Tech
 
-Project Description
+#Project Description
 
 This repository contains my Digital Literacy Project developed as part of my academic coursework for the Digital Literacy (CSE0001) course. The main objective of this project is to understand the importance of digital awareness, safe internet usage, professional online presence, and responsible digital communication in today's technology-driven world.
 
@@ -20,24 +20,24 @@ Through this project, I explored multiple digital platforms and tools that help 
 
 By completing this project, I gained practical experience in using modern digital platforms such as GitHub, LinkedIn, Kaggle, HackerRank, Google Forms, and Canva. This experience helped me develop a deeper understanding of how technology can be used effectively for academic learning and professional development.
 
-Project Objectives
+#Project Objectives
 
-The main objectives of this project are:
+- The main objectives of this project are:
 
-To understand the concept and importance of Digital Literacy
+--To understand the concept and importance of Digital Literacy
 
-To build a professional digital portfolio
+--To build a professional digital portfolio
 
-To explore coding practice platforms
+--To explore coding practice platforms
 
-To learn professional email communication
+--To learn professional email communication
 
-To understand cybercrime and online safety
+--To understand cybercrime and online safety
 
-To promote responsible use of digital technologies
+--To promote responsible use of digital technologies
 
 
-Project Structure
+#Project Structure
 
 This repository is organized into different folders, each representing a specific task completed as part of the Digital Literacy project.
 
@@ -57,7 +57,7 @@ digital-literacy-project
 
 Each folder contains the required files, screenshots, and documents related to the respective task.
 
-Tasks Completed
+#Tasks Completed
 
 Task 1 – Digital Literacy Infographic
 
@@ -93,7 +93,7 @@ In this task, I studied a cybercrime case related to Phishing attacks, which is 
 
 This task helped me understand how cybercrime works and how awareness can help prevent online fraud.
 
-Important Links
+#Important Links
 
 Google Form Quiz:
 https://docs.google.com/forms/d/e/1FAIpQLSd9e-n8j8BcwOAx4tCFUgLUSqUVPMIScv9GtN_HxvSOZ_E4QQ/viewform?usp=publish-editor
@@ -101,7 +101,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSd9e-n8j8BcwOAx4tCFUgLUSqUVPMIScv9GtN_H
 GitHub Repository:
 https://github.com/anjali-05701/digital-literacy-project
 
-Tools & Platforms Used
+#Tools & Platforms Used
 
 The following tools and platforms were used during this project:
 
@@ -117,7 +117,7 @@ HackerRank – Coding practice
 
 Google Forms – Quiz creation and responses
 
-Key Learning Outcomes
+#Key Learning Outcomes
 
 Through this project, I learned several important concepts and practical skills:
 
@@ -133,7 +133,7 @@ Understanding cyber safety and online threats
 
 Promoting responsible social media usage
 
-🚀 Future Plans
+#Future Plans
 
 In the future, I plan to:
 
@@ -147,13 +147,13 @@ In the future, I plan to:
 
 ->Learn more about cybersecurity and digital technologies
 
-Conclusion
+#Conclusion
 
 This project provided valuable hands-on experience with essential digital tools and platforms. It helped me understand how digital technologies can be used effectively for learning, communication, and professional development.
 
 The knowledge and skills gained through this project will help me build a strong digital presence and responsible online identity, which will be beneficial for my academic journey as well as my future career.
 
-References
+#References
 
 -GitHub
 
